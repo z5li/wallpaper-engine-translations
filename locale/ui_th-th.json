@@ -496,8 +496,8 @@
 	"ui_editor_preset_snow_particles_description" : "Adds snow particles slowly following from the top of the screen.",
 	
 	"ui_editor_paint_overlay_value" : "Value",
-	"ui_editor_paint_overlay_color" : "Color",
-	"ui_editor_paint_overlay_size" : "Size",
+	"ui_editor_paint_overlay_color" : "สี",
+	"ui_editor_paint_overlay_size" : "ขนาด",
 	"ui_editor_paint_overlay_opacity" : "Opacity",
 	"ui_editor_paint_overlay_hardness" : "Hardness",
 	"ui_editor_paint_overlay_show_mask" : "Show mask",
